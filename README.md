@@ -1,0 +1,2 @@
+# Advance-digitized-butt-for-weapon-tracking-and-communication.
+The idea of this project was found after careful study and understanding ARM FORCES problem trends. The project solves the individual soldier communication with respective troops via base stations in a cost effective manner with minimal additional weight to weapons when compared with traditional communication approach. This project also gives a platform to send repetitive signals to the base station if in cases weapons go missing or surrendered when a particular function is activated.
